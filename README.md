@@ -27,11 +27,13 @@
 | GSAP | Animaciones avanzadas | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white) |
 | Netlify | Hosting y Forms | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) |
 
-## 🖥️ Vista Previa
-![Preview del Portafolio](https://kenoxys.github.io/rogersacosta/)  
-
+## 🖥️ Vista Previa en Vivo
+[![Captura del Portafolio](https://via.placeholder.com/800x500/2d3748/ffffff?text=Click+para+ver+Live+Demo)](https://kenoxys.github.io/rogersacosta/)
 ![image](https://github.com/user-attachments/assets/acf775b7-f635-4f46-8d83-f77f09bc5b78)
 
+🔗 **[Ver Portafolio en Vivo](https://kenoxys.github.io/rogersacosta/)**
+
+## 🖥️ Final de la Vista Previa
 
 ## 🚀 Cómo Ejecutar Localmente
 ```bash
