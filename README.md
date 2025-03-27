@@ -38,8 +38,8 @@
 ## 🚀 Cómo Ejecutar Localmente
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tuusuario/tu-portfolio.git
-cd tu-portfolio
+git clone https://github.com/Kenoxys/rogersacosta.git
+cd rogersacosta
 ```
 ```
 # 2. Abrir en navegador (opción 1)
