@@ -28,7 +28,7 @@
 | Netlify | Hosting y Forms | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) |
 
 ## 🖥️ Vista Previa
-![Preview del Portafolio]((https://kenoxys.github.io/rogersacosta/))  
+![Preview del Portafolio](https://kenoxys.github.io/rogersacosta/)  
 
 ![image](https://github.com/user-attachments/assets/acf775b7-f635-4f46-8d83-f77f09bc5b78)
 
